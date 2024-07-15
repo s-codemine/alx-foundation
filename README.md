@@ -90,4 +90,15 @@ Let’s celebrate this moment - you have just completed your first module in Sav
 You really are on fire!
 Take a short break and treat yourself to a snack.
 
+## Module 2 - About Professional Foundations
+
+### Programme Overview
+
+We have created a program summary so you have an overview of what the next 2 months will entail. If you would like to scan through it you can go through the slides below. You can also download it [here](content/foundations_program.pdf) and keep a copy for yourself if you want.
+
+The overview covers the key skills you will master in the first 2 months. It is a clear guide on what you will learn but please note that the flow of modules and content might move around as the week progresses. This will be to keep the content relevant and applicable to each week’s key takeaways.
+
+Exciting times are ahead and we hope that seeing this overview will help you proactively plan ahead.
+
+
 
