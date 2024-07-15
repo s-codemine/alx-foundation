@@ -16,7 +16,7 @@ The 8 meta-skills covered in the program.
 How your time in the program will be allocated.
 The learning focus of Months 1 and 2?
 
-<video src="https://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view" controls></video>
+[![alt text](Learning Focus Month 1 & 2)](https://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view)
 
 Are you ready to supercharge and transform your trajectory as a young tech professional? We are too, so let’s do this!
 
@@ -55,7 +55,7 @@ By the end of the video, make sure you can answer YES to these questions:
 - Have I understood how to take a “Check Your Understanding” quiz?
 - Have I understood how to take the Weekly Test?
 
-<video src="https://www.youtube.com/watch?v=o75c90vuVqE&embeds_referring_euri=https%3A%2F%2Fintranet.alxswe.com%2F&source_ve_path=Mjg2NjY" controls></video>
+[![alt text](Savanna Walkthrough)](https://www.youtube.com/watch?v=o75c90vuVqE&embeds_referring_euri=https%3A%2F%2Fintranet.alxswe.com%2F&source_ve_path=Mjg2NjY)
 
 >
 > Refrences: <a href="https://www.youtube.com/watch?v=o75c90vuVqE">Savanna Walkthrough</a>
@@ -90,5 +90,6 @@ Let’s celebrate this moment - you have just completed your first module in Sav
 You really are on fire!
 Take a short break and treat yourself to a snack.
 
-<iframe src="https://giphy.com/embed/l4vMelIOmfR0kVxhY8" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/snack-wfh-jazzer-guys-l4vMelIOmfR0kVxhY8">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/l4vMelIOmfR0kVxhY8" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/snack-wfh-jazzer-guys-l4vMelIOmfR0kVxhY8">via GIPHY</a></p>
 
