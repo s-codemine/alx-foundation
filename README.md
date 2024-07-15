@@ -139,3 +139,46 @@ Are you excited yet? Watch the video below with ALX alumni sharing about their e
 
 If you are still curious to hear more, you can <a href="https://www.youtube.com/@ALXAfrica/videos" target="_blank">watch more [OPTIONAL] inspiring videos here.</a>
 
+>
+> Refrences: <a href="https://www.youtube.com/watch?v=BNmyYzosV-E" target="_blank">ALX Experience</a>
+> Refrences: <a href="https://www.youtube.com/@ALXAfrica/videos" target="_blank">Other Testimonials</a>
+>
+
+## Week 1 Overview
+
+There are several moving pieces this week and we want to set clear expectations so you can give each one the required attention.
+
+Watch this next video for a detailed overview of what to expect for the rest of this week. As you watch the video, make note of:
+
++ 1 What you need to do to complete Week 1 successfully.
++ 2 How the rest of Week 1 is structured.
++ 3 Week #1 Test submission deadlines.
+
+[![Week One](https://drive.google.com/file/d/1NcFS5YLzkkECg8XKYMpzwVtkmmxDDN8F/view?usp=sharing)](https://drive.google.com/file/d/1NcFS5YLzkkECg8XKYMpzwVtkmmxDDN8F/view?usp=sharing)
+
+So what are you waiting for? Let’s go!
+
+[![Week One](content/week_one.jpg)](content/week_one.jpg)
+
+If you need a transcript of this video, you can download it <a href="https://docs.google.com/document/d/1E4x18oIW9SB5eCmHC4a3DLqsLdNSrY9XGwsMO1UaZeg/copy">here.</a>
+
+>
+> Refrences: <a href="https://drive.google.com/file/d/1NcFS5YLzkkECg8XKYMpzwVtkmmxDDN8F/view?usp=sharing">Week One</a>
+>
+
+## Tech Onboarding - Personal Toolkit (Savanna & ALX Portal)
+
+The ALX Portal and Savanna are the two main tools you must employ in this course if you want to succeed. This week, setting up and becoming accustomed to each of these tools should be your first priority.
+
+By now, you should have received instructions on how to get started on each of the platforms. Please be sure to carefully follow the instructions provided for each of the tools.
+
+[![ALX Savanna(content/savanna.png)](content/savanna.png)
+
+We have already talked about Savanna (where you are right now!) This is where you will spend most of your time absorbing content and this is where you will submit your practice quizzes and Weekly Tests. This is also the place where you will submit your weekly Milestones and do your peer evaluations.
+
+[![ALX Fellowship Portal](content/portal.png)](content/portal.png)
+
+You will access ALX’s community through The Portal. This is the place where you will communicate with fellow students online and get help from ALX staff when needed. This is also where you will receive announcements, and participate in virtual community activities and discussions. In short, this is your WhatsApp x Insta for the duration of this course!
+
+
+
