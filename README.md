@@ -16,7 +16,7 @@ The 8 meta-skills covered in the program.
 How your time in the program will be allocated.
 The learning focus of Months 1 and 2?
 
-[![alt text](Learning Focus Month 1 & 2)](https://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view)
+[![Learning Focus Month 1 & 2](https://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view)](https://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view)
 
 Are you ready to supercharge and transform your trajectory as a young tech professional? We are too, so let’s do this!
 
