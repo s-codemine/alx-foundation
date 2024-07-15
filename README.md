@@ -298,5 +298,34 @@ Let’s take a look at some of these resource buckets below!
     - <a href="https://www.techinafrica.com/" target="_blank">Tech in Africa Newsletter</a>
     - <a href="https://ventureburn.com/" target="_blank">Ventureburn</a>
 
-Enjoying the resources? There’s more on the next page!
++ 4. **Women in Technology**
+
+    Want to learn more about Women in Tech, well these two resources are for you.
+
+    - <a href="https://www.africanwomenintech.com/" target="_blank">The African Women in Technology (AWIT) Conference</a>
+    - <a href="https://developers.google.com/womentechmakers" target="_blank">Google Women TechMakers</a>
+
++ 5. **Company Discovery**
+
+    This section contains platforms you can use to discover and research African companies employing innovative tech in various industries.
+
+    - <a href="https://www.ycombinator.com/" target="_blank">YCombinator</a>
+    - <a href="https://www.crunchbase.com/" target="_blank">Crunchbase</a>
+    - <a href="https://wellfound.com/" target="_blank">Wellfound (Formerly AngelList)</a>
+    - <a href="https://fastcompany.com/" target="_blank">Fast Company</a>
+
++ 6. **Company Discovery Africa**
+
+    - <a href="https://www.thefuturelist.com/" target="_blank">The FutureList</a>
+    - <a href="https://old.disruptafrica.com/" target="_blank">Disrupt-Africa</a>
+    - <a href="https://startuplist.africa/" target="_blank">Startuplist Africa</a>
+
++ 7. **YouTube Channels**
+
+    - <a href="https://www.youtube.com/@techquickie" target="_blank">Tech Quickie</a>
+    - <a href="https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ" target="_blank">The Verge</a>
+
+These are just a few of the many great resources available for people breaking into technology. By taking advantage of these resources and communities, learners can build their skills, connect with others in the industry, and start building their careers in tech.
+
+Remember that ALX is in the business of nurturing future African leaders. Therefore, take this opportunity to participate in these communities. It’s always fun and a fantastic opportunity for networking that will ultimately give you access to partnerships, jobs and who knows, you might meet your future co-founder in one of these spaces!
 
