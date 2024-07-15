@@ -55,7 +55,7 @@ By the end of the video, make sure you can answer YES to these questions:
 - Have I understood how to take a “Check Your Understanding” quiz?
 - Have I understood how to take the Weekly Test?
 
-[![Savanna Walkthrough](https://www.youtube.com/watch?v=o75c90vuVqE)](https://www.youtube.com/watch?v=o75c90vuVqE&embeds_referring_euri=https%3A%2F%2Fintranet.alxswe.com%2F&source_ve_path=Mjg2NjY)
+[![Savanna Walkthrough](https://www.youtube.com/watch?v=o75c90vuVqE)](https://www.youtube.com/watch?v=o75c90vuVqE)
 
 >
 > Refrences: <a href="https://www.youtube.com/watch?v=o75c90vuVqE">Savanna Walkthrough</a>
@@ -125,4 +125,17 @@ This course will empower you to navigate and appropriately interact in a variety
 
 You have just become part of a network of the continent’s leading talent in tech!
 
+## How Our Lessons Have Impacted Students
+
+Are you excited yet? Watch the video below with ALX alumni sharing about their experience, the learning model and how it changed their lives.
+
+**As you watch try to answer the following for yourself:**
+
++ 1 What does “learn fast and fail fast” mean to me?
++ 2 What does “do hard things” mean for me?
++ 3 What lifelong benefits will this program add to my professional journey?
+
+[![ALX Experience](https://www.youtube.com/watch?v=BNmyYzosV-E)](https://www.youtube.com/watch?v=BNmyYzosV-E)
+
+If you are still curious to hear more, you can <a href="https://www.youtube.com/@ALXAfrica/videos" target="_blank">watch more [OPTIONAL] inspiring videos here.</a>
 
