@@ -180,5 +180,24 @@ We have already talked about Savanna (where you are right now!) This is where yo
 
 You will access ALX’s community through The Portal. This is the place where you will communicate with fellow students online and get help from ALX staff when needed. This is also where you will receive announcements, and participate in virtual community activities and discussions. In short, this is your WhatsApp x Insta for the duration of this course!
 
+## Navigating Savanna
+
+[![ALX Savanna(content/savanna.png)](content/savanna.png)
+
+As we mentioned in the Savanna Tutorial Video our course is organized by modules with projects, which you can think of as chapters. Every week, a new set of modules will be unlocked so you can access them. The modules, and the pages within them, are meant to be studied in the order they are presented. There is a natural progression to the material, so it will not be helpful for you to jump around. You can access the projects (and their relate modules) you have to complete from the left navigation bar by clicking the “Projects” icon.
+
+[![ALX Savanna(content/s_1.png)](content/s_1.png)
+
+Clicking on any of the projects will show you the details of how modules and pages are arranged within the course. You can navigate them from the from the secondary navigation bar on the left.
+
+[![ALX Savanna(content/s_2.png)](content/s_2.png)
+
+You can also access your projects from the “My Planning” where you’ll find all your projects and submission requirements in a calendar timeline.
+
+[![ALX Savanna(content/s_3.png)](content/s_3.png)
+
+HAPPY SAVANNA EXPLORING!
+
+
 
 
