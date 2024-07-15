@@ -329,3 +329,78 @@ These are just a few of the many great resources available for people breaking i
 
 Remember that ALX is in the business of nurturing future African leaders. Therefore, take this opportunity to participate in these communities. It’s always fun and a fantastic opportunity for networking that will ultimately give you access to partnerships, jobs and who knows, you might meet your future co-founder in one of these spaces!
 
+## Tech Resources - Video Conferencing Etiquette and Tools
+
+As part of this course – and in the rest of your career journey – you will be asked to participate in video calls via Zoom, Google Meet, Skype, Teams and other video conferencing platforms. You will need to be on your professional “A” Game. So, to highlight video conferencing etiquette and to make sure you grasp the dos and don'ts, we decided to make this fun lesson for you. It’s a must-watch.
+
+Ask yourself as you watch:
+
++ 0 What went wrong in this video? Do your best to catch all the don'ts as they happen.
++ 1 What could have been done differently to make this more professional?
+Enjoy. And oh yes, you’re welcome! 😊
+
+Wow! The drama in this video is epic! Sadly, all of the examples come from real-life situations that your course designers have experienced! So don’t be like Nicole’s character in this video – avoid all of her mistakes and shine as the young professional that you are.
+
+[![Video Conferencing Gone Wrong](https://youtu.be/4zf3yoqKdnU)](https://youtu.be/4zf3yoqKdnU)
+
+>
+> **question mark**
+> Of everything that happened during this call gone wrong, what stood out to you the most and vow to never do while on a conference call?
+>
+
+>
+> Refrences: <a href="https://youtu.be/4zf3yoqKdnU" target="_blank">Video Conferencing Etiquette</a>
+>
+
+## Tech Resources - Video Conferencing Tools - Zoom
+
+Now that we know what not to do and have a solid bearing of recommended video conferencing etiquette, let’s talk about how to effectively use Zoom.
+
+The next 6-minute video is a great beginner’s tutorial. The video focuses on the technical basics of how to use the app to schedule, invite folks to and lead a meeting.
+
+If you are already a pro and know how to use Zoom, watch it anyway - it will reinforce your knowledge and we bet you’ll still learn a few more hacks.
+
+As you watch, ask yourself:
+
++ 1 Can I successfully set up and schedule a call in Zoom?
++ 2 What can I do in Zoom to adjust my settings to host a seamless video call/conference?
+
+[![Video Conferencing Gone Wrong](https://youtu.be/PQBehKw-NQM)](https://youtu.be/PQBehKw-NQM)
+
+>
+> Refrences: <a href="https://youtu.be/PQBehKw-NQM" target="_blank">Video Conferencing Etiquette</a>
+>
+
+## Tech Resources - Video Conferencing Tools - Google Meet
+
+Another app that is commonly used is <a href="https://meet.google.com/landing" target="_blank">Google Meet</a>. This 5-minute video takes us through each step of hosting a meeting in Google Meet.
+
+Yes, we see you self-acclaimed-Google-Meet-guru. You too should watch the video. You will learn something new and, worst case scenario, it will reaffirm your skills and self-proclaimed crown.
+
+As you watch, ask yourself:
+
++ 1 Have I understood the process of setting up a meeting in Google Meet?
++ 2 Have I understood the different call settings at my disposal when using Google Meet?
+
+[![Video Conferencing Gone Wrong](https://youtu.be/ztyHfVLcp24)](https://youtu.be/ztyHfVLcp24)
+
+>
+> Refrences: <a href="https://youtu.be/ztyHfVLcp24" target="_blank">Video Conferencing Etiquette</a>
+>
+
+## Our African Leadership Group Story
+
+Welcome to our Story. The Story of our journey to today and to you joining us. It is marked by: setting and staying true to work always towards a moonshot Mission, and always working with a clear shared set of Values to guide our Actions. And of course, with the mindset of ‘Do Hard Things’.
+
+<iframe src="https://drive.google.com/file/d/1IHMN6IfyAfU3df90DxITNcB3bh6atf9e/preview" width="720" height="540" allow="autoplay"></iframe>
+
+<p><a href="https://algroup.org/" title="Link" target="_blank">Read more about us here.</a></p>
+
+## Our partnership with Mastercard Foundation
+
+We have an amazing partnership with Mastercard Foundation
+
+Because of that, we are able to deliver our programs and offer low program fees. Please watch this video which will share more details on this transformational partnership.
+
+<iframe src="https://drive.google.com/file/d/1-6RD5kDf5zIfpZskPNr642k3yBAajzZk/preview" width="720" height="540" allow="autoplay"></iframe>
+
