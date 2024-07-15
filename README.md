@@ -90,6 +90,4 @@ Let’s celebrate this moment - you have just completed your first module in Sav
 You really are on fire!
 Take a short break and treat yourself to a snack.
 
-<iframe src="https://giphy.com/embed/l4vMelIOmfR0kVxhY8" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><img src="https://giphy.com/gifs/snack-wfh-jazzer-guys-l4vMelIOmfR0kVxhY8" alt="via GIPHY"></p>
 
