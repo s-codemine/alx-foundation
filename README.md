@@ -198,6 +198,67 @@ You can also access your projects from the “My Planning” where you’ll find
 
 HAPPY SAVANNA EXPLORING!
 
+## Get Set Up on The ALX Portal
 
+You should have received your invite to The ALX Portal where you can access the ALX Professional Foundations Program community. You can also click on <a href="https://member.theroom.com/community" target="_blank">this link to login to The ALX Portal</a>.
+
+The online community space can only be accessed through The ALX Portal. You cannot access it through an Android, Apple or Windows App. For quick alternative access, you can open your space on the portal, bookmark the URL, and save it to your web browser as a favourite or tab on your home screen.
+
+## Set Up Your ALX Portal
+
+### Connectivity
+
+[![Connectivity(content/connectivity.png)](content/connectivity.png)
+
+Working in tech will require consistent and reliable internet connection.
+
+This program is no different and requires the same thing. There are many videos to view, a lot of content to absorb, peer activities to complete, live virtual events to attend, and a requirement to upload milestone assignments and evaluate peers’ assignments on time. Please adequately plan ahead for how you are going to accomplish this.
+
+Some students have purchased additional data plans on their phones, while others have planned on working from a café with Wi-Fi for several hours each day. We understand this can be a challenging problem, but to thrive in this program and the tech sector, internet connectivity will have to be a constant.
+
+We believe in your resourcefulness! As you go through this program, we encourage you to share with your peers how you plan on implementing creative and reliable solutions to consistent and reliable Wi-Fi! And remember, you can always your city hub. if one is available near you!
+
+### Device Guidelines
+
+[![Device GuideLines(content/device.png)](content/device.png)
+
+To thrive in the program, **you need access to a computer**. This can be a good desktop or laptop with good battery life.
+
+It will be almost impossible to do tech work exclusively from a mobile phone. The same is true for this program. **We do not support the course experience on a phone.**
+
+While it’s true that you could access a lot of the course content via your mobile phone, you do need a computer to be able to complete all of the activities. This becomes especially true when you need to complete your Milestones and peer evaluations.
+
+**Here are a few reasons why you definitely need a computer to successfully complete this program:**
+
++ 1 When you are working with Google Workspace on documents, spreadsheets, and presentations, you need a larger screen to be able to see and work skillfully with the large amount of data that is there.
++ 2 Most Milestones require you to create documents, convert them to .pdf, and upload them to Savanna. Converting documents on a phone is challenging, and we cannot guarantee that Savanna will successfully and consistently accept documents uploaded from a phone.
++ 3 The Weekly Tests are timed and the functionality of tests delivered on the phone is poor and sometimes non-functional, and taking a test on your phone can cause you to fail it.
+
+The only place where mobile is an okay choice is when using the community messaging platform on The Room Portal.
+
+>
+> #### TLDR:
+> You will need to use a computer to successfully complete the activities on Savanna and Google Workspace. We do not provide support for issues caused by attempting to take the course on a mobile device.
+>
+
+### Google Workspace
+
+[![Device GuideLines(content/google.png)](content/google.png)
+
+#### Google Workspace tools will also be your playground for the rest of this course.
+
+If you don’t already have a Gmail account – which also serves as your Google Workspace account – now is the time to create one.
+
+**Gmail for personal use is free** and allows you to access critical workspace tools including Drive, Sheets, Docs, Slides, Calendar, Google Meet, etc.
+
+You can follow the step-by-step instructions here: <a href="https://support.google.com/accounts/answer/27441?hl=en" target="_blank">How to create a Google account.</a> A personal account is free and should be sufficient for your purposes for now. A business account has more features but costs money each month. You can always upgrade later should you choose to.
+
+#### We have a few more thoughts before you get started with creating your Gmail account.
+
+You will likely be using your Gmail to connect with potential employers through emails, file sharing and online meetings, so think carefully about your username as it forms part of your email address (and personal brand to the outside world).
+
+We recommend using your name as your Gmail username. For example, if your name is Sarati Jonas then your username should be something like Sarati.Jonas or sjonas. If those usernames are taken Gmail will suggest suitable alternatives. Pick one that is professional.
+
+Using nicknames or pet names such as Sarababy, SJ4life or BigMuscleS21, will not demonstrate your professionalism. So think ahead a pick a username that will work well for you in professional settings. It will likely be the first impression you make when connecting with potential employers (or clients) via email.
 
 
