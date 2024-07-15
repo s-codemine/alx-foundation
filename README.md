@@ -23,7 +23,7 @@ Are you ready to supercharge and transform your trajectory as a young tech profe
 If you need a transcript of this video, you can download a copy from <a href="https://docs.google.com/document/d/1iP2xznQdvNk8TUSWSECi6ezDX3HzF9q773pSv4QPeiQ/copy">here.</a>
 
 >
-> Refrences: <a href="ttps://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view?usp=sharing">Video Reference</a>
+> Refrences: <a href="https://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view?usp=sharing">Video Reference</a>
 >
 
 ## Why Complete the ALX Professional Foundations Program?
@@ -41,4 +41,54 @@ Our Special Sauce consists of the 8 Meta Skills that we listed in our welcome no
 > **question mark**
 > As you read, identify in the article each of the 8 meta-skills that we focus on in this program. Happy Reading!
 >
+
+## Using Savanna
+
+Your ALX Professional Foundations course content is all found here, on Savanna. In this tutorial video, we show you around Savanna so you can get comfortable with it. The course material is organized by modules with projects, which you can think of as chapters. Every week, new modules with projects will be unlocked so you can access them. We recommend that you go to “Projects” to view what you have completed and what you have yet to complete. Please go through the material in the order in which it is presented.
+
+Please watch this mandatory tutorial on getting around Savanna. Please note that the course shown in the demo is close but not identical to yours and that any dates and content shown are just examples.
+
+By the end of the video, make sure you can answer YES to these questions:
+
+- Do I know where to go to see the modules and course content?
+- Have I understood how to navigate Savanna (for example how to move to the next page)?
+- Have I understood how to take a “Check Your Understanding” quiz?
+- Have I understood how to take the Weekly Test?
+
+<video src="https://www.youtube.com/watch?v=o75c90vuVqE&embeds_referring_euri=https%3A%2F%2Fintranet.alxswe.com%2F&source_ve_path=Mjg2NjY" controls></video>
+
+>
+> Refrences: <a href="https://www.youtube.com/watch?v=o75c90vuVqE">Savanna Walkthrough</a>
+>
+
+## Karibu Ceremony
+
+**Need to know everything about this exciting journey before going full throttle? We have you covered.**
+
+This Saturday, we will be hosting our Karibu Ceremonies. This is your big welcome to the AL family, where important introductory context will be shared.
+
+The ceremony is compulsory and a required part of this program. So make sure you have all the details you need to attend. Keep a lookout for email communications on this matter!
+
+In addition to the Ceremony and content here on Savanna, there are a plethora of orientation activities taking place throughout this week, online and at your nearest City Hub. You are expected to participate. Please take a moment right now to check your inbox for any ALX calendar invitations. Accept the invites, add them to your calendar and make note of what is happening and when.
+
+This is the week to get set up, get ahead and understand what is in store. Missing the Karibu Ceremony and associated onboarding activities this week is not an option. How you start will strongly impact the rest of your journey here at ALX. If you get left behind there’s no Tesla fast enough to catch you up.
+
+## Get to Know Your Course Designers and Guides
+
+There is a HUGE army behind the scenes here. All of us are working to make sure that you and your peers are set up to succeed in this program. Here are some of the course designers you may come across during your journey.
+
+
+
+Now that you have an idea of some of the many people working hard for your success, we are wide-eyed and excited to meet you too!
+
+You should now (or very soon) have access to The Portal, a platform where you’ll have a chance to introduce yourself to us, and your peers in your Squad (your assigned peer group… More on that in a little bit).
+
+## End of Module 1.1
+
+What? We see you pulling winning stunts already!
+Let’s celebrate this moment - you have just completed your first module in Savanna.
+You really are on fire!
+Take a short break and treat yourself to a snack.
+
+<iframe src="https://giphy.com/embed/l4vMelIOmfR0kVxhY8" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/snack-wfh-jazzer-guys-l4vMelIOmfR0kVxhY8">via GIPHY</a></p>
 
