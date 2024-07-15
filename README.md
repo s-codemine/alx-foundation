@@ -261,4 +261,42 @@ We recommend using your name as your Gmail username. For example, if your name i
 
 Using nicknames or pet names such as Sarababy, SJ4life or BigMuscleS21, will not demonstrate your professionalism. So think ahead a pick a username that will work well for you in professional settings. It will likely be the first impression you make when connecting with potential employers (or clients) via email.
 
+## Tech Resources - Get Started
+
+[![Device GuideLines(content/t_resources.png)](content/t_resources.png)
+
+As you start navigating your tech careers and finding your true north, know that the tech industry has grown in leaps and bounds for the past several decades. Today, there are tons of resources, publications, YouTube and Twitter accounts, and communities among many others to help you along your journey, and stay informed about the latest in technology and trends.
+
+To stay up to date with happenings in the ever-changing world of tech, **we recommend that you follow, bookmark or subscribe to at least 1 in each category**. You can also follow the social media pages for each resource you select. But be realistic - subscribe to what you have a genuine interest in actually following.
+
+Let’s take a look at some of these resource buckets below!
+
++ 1. **World Tech Newsletters**
+
+    You can stay updated on tech news in Africa through these resources
+
+    - <a href="https://singularityhub.com/newsletter/" target="_blank">Singularity University</a>: This is not an actual traditional university as the name suggests but serves as a platform for exploring the frontiers of technology and innovation, encouraging participants to think big and create a positive impact on a global scale. Think of it as a Ted Talks on steroids and is an amazing newsletter to be a part of!
+    - <a href="https://www.morningbrew.com/daily" target="_blank">Morning Brew Daily</a>: This newsletter gives a roundup of new exciting news in the world of technology that you need to be aware of. This is ideal especially now when new AI startups are getting started each day.
+    - <a href="https://hackernewsletter.com/" target="_blank">HackerNewsLetter</a>: This offers a curated list of select stories from <a href="https://news.ycombinator.com/" target="_blank">HackerNews</a> on topics such as programming, security, data science, startups, and more.
+    - <a href="https://www.smashingmagazine.com/the-smashing-newsletter/" target="_blank">Smashing Magazine</a>: This will be a great resource for those who love beautiful design.
+
++ 2. **World Tech News**
+
+    You can stay updated on tech news around the World through these favourite resources
+
+    - <a href="https://news.ycombinator.com/" target="_blank">HackerNews</a>
+    - <a href="https://www.wsj.com/tech" target="_blank">WallStreetJournal</a>
+    - <a href="https://techcrunch.com/" target="_blank">TechCrunch</a>
+    - <a href="https://www.ycombinator.com/" target="_blank">YCombinator</a>
+    - <a href="https://www.wired.com/" target="_blank">Wired</a>
+
++ 3. **Africa Tech News and Information Platforms**
+
+    - <a href="https://techcabal.com/" target="_blank">Tech Cabal:</a> This platform also provides news about African issues that we need to be aware of as we are thinking about solutions to the problems you’re going to be tackling. A very important resource. Other resources are:
+    - <a href="https://techcrunch.com/tag/africa/" target="_blank">Techcrunch Africa</a>
+    - <a href="https://disrupt-africa.com/" target="_blank">Disrupt Africa</a>
+    - <a href="https://www.techinafrica.com/" target="_blank">Tech in Africa Newsletter</a>
+    - <a href="https://ventureburn.com/" target="_blank">Ventureburn</a>
+
+Enjoying the resources? There’s more on the next page!
 
