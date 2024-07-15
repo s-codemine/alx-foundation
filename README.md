@@ -55,7 +55,7 @@ By the end of the video, make sure you can answer YES to these questions:
 - Have I understood how to take a “Check Your Understanding” quiz?
 - Have I understood how to take the Weekly Test?
 
-[![alt text](Savanna Walkthrough)](https://www.youtube.com/watch?v=o75c90vuVqE&embeds_referring_euri=https%3A%2F%2Fintranet.alxswe.com%2F&source_ve_path=Mjg2NjY)
+[![Savanna Walkthrough](https://www.youtube.com/watch?v=o75c90vuVqE)](https://www.youtube.com/watch?v=o75c90vuVqE&embeds_referring_euri=https%3A%2F%2Fintranet.alxswe.com%2F&source_ve_path=Mjg2NjY)
 
 >
 > Refrences: <a href="https://www.youtube.com/watch?v=o75c90vuVqE">Savanna Walkthrough</a>
