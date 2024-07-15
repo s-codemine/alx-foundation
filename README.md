@@ -100,5 +100,29 @@ The overview covers the key skills you will master in the first 2 months. It is 
 
 Exciting times are ahead and we hope that seeing this overview will help you proactively plan ahead.
 
+## What You Will Learn: 8 Meta Skills
+
+### What are the next few months about and what will you be able to do by the time you’ve completed them?
+
+#### We thought you’d never ask!
+
+We are confident that the skills you will acquire here are gold! We’ve crafted a learning journey that will equip you with holistic skills that are highly sought after, and that most programs do not teach. You can think of these skills as a secret weapon that will:
+
++ Make you a more attractive job candidate,
++ Increase your job longevity and satisfaction,
++ Boost your confidence in global workspaces, and
++ Advance your professional relevance in tech.
+
+During the earliest days of the African Leadership University, the AL team interviewed over 200 executives across Africa and around the world to discover the answer to one key question: **“What skills are most important for entry-level employees to have when they work for your company?”**
+
+What resulted from this was a list of 7 meta-skills that almost all employers agreed were _essential _to success for young people in today’s modern workplace. In addition to the 7 meta-skills above – due to the rapidly evolving employment and tech landscape – we added one more meta-skill on Tech Ecosystems.
+
+The 8 meta skills are broken down below.
+
+[![8 Meta Skills](content/outline.png)](content/outline.png)
+
+This course will empower you to navigate and appropriately interact in a variety of professional settings. It will increase your intellectual and creative capacity, sharpen your data-driven mindset and critical thinking skills, empower your career path by helping you connect with your personal mission, equip you to better manage yourself and work with others, and enable you to set a high standard of professional excellence.
+
+You have just become part of a network of the continent’s leading talent in tech!
 
 
