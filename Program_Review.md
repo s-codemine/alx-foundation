@@ -34,7 +34,7 @@ From Squads, smaller teams are formed that collaborate on group projects (in-per
 
 Unlike traditional courses, all learning content and assignments/milestones are designed to help you develop critical skills that you actually need for the real world of work. Weekly Tests are designed to help you assess whether you have understood the content. Milestones are designed to simulate projects done in the workplace and provide you with actual work samples.
 
-Read more about what makes the ALX Professional Foundations Program the amazing experience it is by downloading the program brochure [![here](content/foundation_program.pdf)](content/foundation_program.pdf).
+Read more about what makes the ALX Professional Foundations Program the amazing experience it is by downloading the program brochure [here](content/foundation_program.pdf).
 
 
 
