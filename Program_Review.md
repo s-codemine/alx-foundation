@@ -540,5 +540,58 @@ So what do these CHAIR values look like in practice, when it comes to interactin
 > - Do any of these values or their implementation feel like they might be challenging to practice for you? Why or why not?
 >
 
+### Code of Conduct
+
+[![Code of Conduct](content/our_coc.png)](content/our_coc.png)
+
+At ALX, we want our community to provide a secure and inclusive environment for all participants, where they can learn and interact freely without experiencing any form of discrimination, harassment, or intellectual property violations.
+
+In order to retain your access to the community platforms and city hubs, you must agree to the Code of Conduct, which applies to all online and in-person community activities, and to all one-on-one communications with staff and your peers.
+
+#### In short, the Code of Conduct requires you to:
+
++ Practice C.H.A.I.R. Values and Community Values to the best of your ability
++ Refrain from:
+    - Harassment
+    - Discrimination
+    - Plagiarism
+    - Cheating
+    - Any other hurtful or unethical behaviour
+    - Privacy and Data Protection.
+
+Please read through our official online and onsite guidelines below:
+
+Online Community Guidelines
+
+Onsite (in-person) Community Guidelines
+
+**Optional**: If you are still curious to learn more, here are the ALX Portal Terms and Conditions
+
+What does this look like in practice?
+This translates into some very simple do’s and don'ts! Let’s see what they are.
+|---|---|
+|DO's|DON'Ts|
+|---|---|
+| Do communicate with your peers as often as you want | Do not use discriminatory, violent, vulgar and/or dangerous speech |
+| Do remind your peers to keep our community safe and supportive | Do not harass or intimidate your peers |
+| Do share resources and offer help and feedback to those in need | Do not post sexual comments |
+| Do reach out for help if you need it | Do not approve of or promote unacceptable behaviour |
+|  | Do not ask for money from the program and your peers |
+|  | Do not spam or troll other members |
+|  | (When in doubt about whether something is appropriate, just don’t post it!) |
+
+#### Process of reporting violations
+
+If you are subject to or witness a violation of the ALX Community’s code of conduct on the community platform, please:
+
++ Email us atalxfoundations@alx.app and make sure to include the following details:
+    - Link to the channel where the incident took place
+    - Screenshots of the offending material
+    - Visible name of the offender.This is critical to prove offensive behaviour.
+
+If you notice a violation, you can also reach out to message the involved parties privately and explain why what they said or did might be hurtful to someone. We are a family, so feel free to be proactive and reach out privately before reporting.
+
+
+
 
 
