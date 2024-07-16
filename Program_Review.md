@@ -289,11 +289,46 @@ Okay, let’s recap some of the keywords we have mentioned so far and add some n
 You may want to pull out your notepad and jot down some of these terms so you remember them going forward. Click on each word or phrase to reveal its meaning.
 
 <details><summary>Module</summary>
-
-    >
-    > A module is a collection of similar content that is grouped and presented together. If this was a physical book a module could be called a chapter. When you hear module, think of a chapter. In the ALX Professional Foundations Course, each week’s material typically has several modules.
-    >
-
+    <br>
+    A module is a collection of similar content that is grouped and presented together. If this was a physical book a module could be called a chapter. When you hear module, think of a chapter. In the ALX Professional Foundations Course, each week’s material typically has several modules.
 </details>
-
+<details><summary>Check Your Understanding</summary>
+    <br>
+    A quiz or a “Check Your Understanding” quiz, is a short assessment that will help you gauge how well you have understood a specific topic/module. It will help you know the areas that you need to revisit in the content before you attempt your weekly Test and Milestone.
+</details>
+<details><summary>Test</summary>
+    <br>
+    <p>A Test is a required, graded assessment that you will take each week here on Savanna. Think of it as a checkpoint to assess your understanding and application of the content you would have learned that week.</p>
+    <p>Our tests are not designed to “catch you out” so you can fail. Their purpose is to let us know that you have understood the content, completed the milestone correctly and are fully capable of applying it in professional settings.</p>
+    <p>There are 8 tests in this program. You are required to take and pass (with a score of 70% or higher) all 8 tests. You can retake a failed test but must do so before the deadline. Remember, tests are due every Monday by 11:59 pm GMT.</p>
+</details>
+<details><summary>Milestone</summary>
+    <br>
+    <p>A milestone is a graded assignment that you will submit each week on Savanna. Most of the time, you’ll be required to upload a .pdf document containing your completed assignment.</p>
+    <p>A milestone is a mark of a significant stage that you would have reached. It speaks to the distance you would have covered in your development process to becoming a renowned tech professional. Every time you see the word milestone just remember that you are about to take another notable step in your professional journey.</p>
+    <p>There are 7 total Milestones in this program. All 7 are required and must all be passed to successfully complete the program. Remember that milestones are due every Monday by 11:59 pm GMT.</p>
+</details>
+<details><summary>Non-passing / Not Passing</summary>
+    <br>
+    <p>If you receive a non-passing score on your Test, it means that you did not perform well enough to receive credit for it. We use the phrase non-passing because don’t believe in failure; just opportunities for growth! If you receive a non-passing score, you will be required to re-submit it.</p>
+    <p>The minimum required score to pass is 70%, so any score below 70% will be referred to as non-passing. Any score of 70% and above will be referred to as passing. You either get a “passing” score or a “non-passing” score.</p>
+</details>
+<details><summary>Peer Coaching</summary>
+    <br>
+    <p>Peer coaching is a relational form of learning and development where peers help one another by talking through their challenges using a structured format. It is a great tool we hope you will learn and practice often!</p>
+    <p>Please note that peer coaching is conversational and is NOT an evaluation process.</p>
+</details>
+<details><summary>Squad</summary>
+    <br>
+    A squad is an assigned group of peers who interact on The Portal. Think of your squad as your immediate family where you can ask questions, discuss program content or get help. You should be automatically added to your squad when you join the ALX Professional Foundations Program community on The Portal.
+</details>
+<details><summary>Project Team</summary>
+    <br>
+    Month two focuses on a project that you will work on in teams. Your project team will be allocated to you and made up of people within the program, who may or may not form part of your squad on The Portal. Your project team will be required to meet (in person or virtually) to collaborate on the project.
+</details>
+<details><summary>City Hub</summary>
+    <br>
+    <p>ALX have physical locations within specific cities across the continent, where you can get help, work from, and attend events or meetings. The City Hub locations are equipped with facilities and weekly activities to support your progress in this program.</p>
+    <p>Details of the city hub locations will be shared with you via email.</p>
+</details>
 
