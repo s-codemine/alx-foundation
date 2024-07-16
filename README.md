@@ -404,3 +404,59 @@ Because of that, we are able to deliver our programs and offer low program fees.
 
 <iframe src="https://drive.google.com/file/d/1-6RD5kDf5zIfpZskPNr642k3yBAajzZk/preview" width="720" height="540" allow="autoplay"></iframe>
 
+## All About ALX
+
+[![ALX](content/savanna.png)](content/savanna.png)
+
+We’d like to share more important background information about ALX.
+
+ALX Africa is at the forefront of equipping young professionals with the most in-demand skills that will power the future. Our world-class tech training programmes enable individuals to future-proof their careers and become agile digital leaders for the 21st century. We are connected to an innovative ecosystem that has successfully produced competitive talent that has been placed with the world’s top employers over the years.
+
+In partnership with the Mastercard Foundation, ALX’s mission is to transform the future of Africa by enabling young professionals to secure and thrive in dignified and meaningful work opportunities.
+
+We train talent that powers the world (that’s you!). We want our graduates to be the techno-fluent, well-rounded leaders of tomorrow. And that is why we offer the ALX Professional Foundations course as a critical base for establishing a promising career in tech.
+
+You are in the right place and on the right path! Don’t believe us? Take it from Peter, one of our ALX General Managers.
+
+[![The ALX Difference](https://youtu.be/rzkommfOaaU)](https://youtu.be/rzkommfOaaU)
+
+You can learn more about ALX at <a href="https://www.alxafrica.com/about/" target="_blank">https://www.alxafrica.com/about/</a>
+
+>
+> Refrences: <a href="https://youtu.be/rzkommfOaaU" target="_blank">The ALX Difference/a>
+>
+
+## Sand Technology
+
+[![ALX Sand Technology](content/alx_sand.png)](content/alx_sand.png)
+
+The AL universe offers more than innovative learning, a strong professional network, and a community. It is also a place to connect with opportunities and employers around the world. This is where Sand Technologies comes in – to bridge the gap between emerging organizations, human talent and the resources they need to meet their mandate.
+
+Sand Technologies is a global technology services company with engineers, software architects, UX designers, and product managers based in Silicon Valley, France, the United Kingdom, Romania and various emerging markets. The company supports scale-ups around the world to develop world-class technology products, build great technology teams, generate more revenue, and deliver outstanding customer experience.
+
+ALX, The Room and other ALI institutions work hand in hand with Sand Technologies to meet the ever-growing need for tech talent and resources around the world. Every company, whether in tech or a different industry, still needs robust tech expertise to run efficiently.
+
+You won’t directly interact with Sand Technologies as part of this course, but you will see the name appear from time to time throughout your ALX journey.
+
+## What’s Next After ALX?
+
+Imagine graduating from ALX with a powerful network, honed skills, and a community that champions your success. That’s the reality for our ALX alumni.
+
+The ALX community is here to provide the ongoing support you need to launch your career with confidence and make a lasting impact in Africa and beyond.
+
+Ready to dive in? Let’s explore the exciting opportunities that await you within the ALX community after graduation.
+
+As you go through these slides, ask yourself:
+
++ What are the benefits of being part of the ALX community?
++ How can I contribute my unique skills and talents to the community?
++ How can the community become my launchpad for professional development and help me explore my career aspirations?
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRT1h3daeu0nDlELcprteacjefkGxY198i9g0yjD5fiO0i7Cm5bl7sfFy0Q9bFZ5KH3QwJiABNRZYUl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="730" height="556" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<hr>
+
+> Ready to kickstart an exciting career journey and propel yourself to professional success?  "Look out for more on how to make the most of your ALX experience this weekend at Karibu!
+
+
+
