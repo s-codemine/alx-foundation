@@ -417,3 +417,128 @@ What excites you most about what you know so far about this course? What do you 
 
 [![Success](content/job.gif)](content/job.gif)
 
+### The Importance of Community
+
+[![Community](community.png)](community.png)
+
+By now, you may have picked up on the fact that  ALX and The Room are serious and deliberate about community (and if you haven’t, we are!!). Community is a really important part of what we do, and if you let it, it can be a hugely important part of your career journey.
+
+We’re going to spend some time helping you to get immersed in the community and all of its benefits, while also helping you to be a great community member.
+
+There are 3 reasons we put such emphasis on community:
+
+#### Build a strong network beyond the program
+
+By placing you in the Foundations Programcommunity, we are inviting you to join our family of future leaders and we expect you to behave accordingly. The community is a space for you to get to know new people, engage with them and learn from each other. We want this community to be an asset for you throughout your career.
+
+#### Empower you to lead your career journey
+
+The internet is turning the world into a small village. You no longer need to “cross oceans” to connect with like-minded people or learn new skills and concepts. You can connect and learn from anyone in the world. We want to facilitate this transition, help you connect, and empower you on your journey.
+
+#### Help each other
+
+There’s a saying we love here at ALX, which is: “If you want to go fast, go alone. If you want to go far, go together”. Solo learning and solo online job searching are hard to maintain and can be intimidating. A proper support system makes all the difference. We want to create a place where community members can share resources, reach out for help and provide feedback. The more you give, the more you get. We hope you will never feel alone with us.
+
+>
+> The community you build and engage with now will form your team for the Month #2 project. In the professional foundations program, there will be a team project in Month #2, and you will be responsible for choosing your own team members. Therefore, it’s important to start engaging with your community now, so that you won’t have trouble forming a team in Month #2.
+>
+
+### The ALX Portal Channels
+
+[![ALX](alx.png)](alx.png)
+
+One of the way we encourage a sense of community is through The ALX Portal. Carefully read the below information so you can make the most of your community experience for the duration of this program.
+
+#### Announcement channel
+
+You will be automatically added to the #Announcement channel when you join the ALX Portal.
+
+This channel will be used to communicate important information updates for the week, such as weekly schedules and live session reminders. This is a read-only channel and you will not be able to engage or react to content here.
+
+For the duration of the program, you must regularly check the Announcements channel for updates.
+
+#### Resources channel
+
+You will also be automatically added to the #Resources channel when you join the ALX Portal.
+
+This channel is for you to access answers to program and tool-related FAQs. for example common questions about Savanna, submission of milestones and peer grading. We will also share important material needed during the program here, for example, links to reading resources, YouTube links to live sessions and jobs if need be. This is a read-only channel and you will not be able to engage or react to content here.
+
+For the duration of the program, you must regularly check the #Resources Channel for updates.
+
+#### Events channel
+
+You will also be automatically added to the Events channel when you join the ALX Portal. This channel is where we will share information on the events taking place as part of the program.
+
+#### Squad channel
+
+You will be part of a squad on The ALX Portal. Your Squad is your team (family) and this is where you can ask questions, discuss program content, or get help. You will be added directly to your squad once you get the invite link to join the ALX Portal. Here are a few things to note about your squad channel.
+
++ A squad channel is private and you cannot join other squads nor invite other participants to join your squad.
++ Your squad channel will be the main channel you will use to engage with fellow participants and team members from the ALX team.
++ You will be able to post or share reactions on this channel.
++ From time to time, the ALX team will share prompts that will refer you to check the #announcement and #resource channel.
+
+Hope this information helps you navigate the ALX Portal a bit better, and make the best of your community. So sign up on the portal if you haven’t already! You can find information on how to do that [here](https://intranet.alxswe.com/concepts/102462).
+
+### Our Values & Code of Conduct
+
+[![Our Code of Conduct](content/our_coc.png)](content/our_coc.png)
+
+Every community needs to abide be certain rules and value to function effectively. So, let us share with you the ALX Values and Code of Conduct. As a participant in this course, you must agree to abide by these guidelines. Much of this is common sense and courtesy, but it’s important for you to understand specifically what values we hold and how we deal with breaches in our Code of Conduct.
+
+To get going, let’s start with our pledge, which is foundational for creating a safe space and healthy community.
+
+>
+> **OUR PLEDGE**
+>
+> We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, colour, religion, or sexual identity and orientation.
+>
+
+### CHAIR Values
+
+Because we are big on community,  ALX runs by a set of C.H.A.I.R values. These are integral to ALX, its vision and mission.  These C.H.A.I.R values align with the Code of Conduct and Honor Code. So let’s unpack what C.H.A.I.R stands for.
+
+[![Our C.H.A.I.R. Values](content/chair1.png)](content/chair1.png)
+
+Now let’s take a look at the next image to see how can implement them.
+
+[![Our C.H.A.I.R. Values](content/chair2.png)](content/chair2.png)
+
+Did you catch why we call them C.H.A.I.R Values?
+
+C - Courage
+
+H - Humility
+
+A - Adventure
+
+I - Initiative
+
+R - Resilience
+
+Cultivating these values as you start your learning journey will enable you to succeed as part of the ALX community. We will also do our part to help you live up to them as part of this course.
+
+#### CHAIR Values in Practice
+
+So what do these CHAIR values look like in practice, when it comes to interacting with the community? Well, it means that you must keep the following in mind when engaging with the ALX community (any community in fact), whether online or in-person.
+
++ 1. **Respect and kindness**: Community members should treat each other with respect and kindness, even if they disagree on certain topics and use appropriate language and tone when interacting with each other.
++ 2. **Confidentiality**: Members should respect each other’s privacy and keep confidential any information shared within the community.
++ 3. **Inclusivity**: The community should be inclusive and welcoming to members of all backgrounds, regardless of their race, gender, sexual orientation, religion, or other personal characteristics.
++ 4. **Accountability**: Members should be accountable for their actions and words within the community, and should take responsibility for any negative impact they may have on others.
++ 5. **Keep it relevant**: Stay on topic and make sure your comments and posts are related to the community’s purpose and interests.
++ 6. **Active participation**: Members should actively participate in learning and discussions, including but not limited to asking questions, and providing constructive feedback to their peers - the more you give to the community, the more you get out of it.
++ 7. **Commitment to learning**: Members should be committed to their own learning and the learning of others within the community.
++ 8. **Constructive feedback**: Feedback should be positive and constructive and aimed at helping others learn and grow. At ALX, we support the development of a growth mindset, which is based on the concepts of learning by doing and learning from our mistakes.
++ 9. **Flexibility**: The community should be flexible and adapt to the changing learning needs of its members and the broader context in which it exists
++ 10. **Continuous improvement**: The community and its members should strive for continuous improvement, on the one hand by regularly reviewing and revising its practices to ensure that it is meeting the needs of its members and achieving its goals; on the other hand, by providing regular feedback when solicited by the organization, spontaneous suggestions as well as reporting suspected behaviour that violates the Code of Conduct and the present guidelines.
+
+>
+> **question mark**
+> Let’s think about this:
+>
+> - Do any of these values or their implementation feel like they might be challenging to practice for you? Why or why not?
+>
+
+
+
