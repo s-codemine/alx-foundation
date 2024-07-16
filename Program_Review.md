@@ -253,6 +253,45 @@ Success in this program is all about building and sticking to a set of recommend
 > **Go on and make winning part of your daily routine!**
 >
 
+### Time Commitments
 
+[![Time Commitments](content/time.png)](content/time.png)
+
+**The program is partially asynchronous**. This means that certain aspects of the program will happen at set times, while other elements of the program can take place within flexible time windows at a pace determined by you, the learner.
+
+Each week there is a large amount of new content to review and study, and a new Test and Milestone (projects/assignments that require understanding and application of that week’s content). Weekly Tests and Milestone due dates are always the same: Monday at 11:59 pm GMT.
+
+But within a given week, you have freedom and flexibility and when and how much you will review and study the content. You get to decide when you will take the Test, and when you will work on and submit your Milestone (as long as it’s before the deadline). You can create your own schedule and work at your own pace.
+
+**The program requires you to complete approximately 20 - 30 hours of work every week**. You can expect to spend:
+
++ 45% of your time learning the content on Savanna
++ 30% working on and submitting Milestones and Weekly Tests
++ 15% interacting with your peers
++ 10% applying lessons learnt with your local community.
+
+**Each week, new learning material is released early on Monday morning**. Again, in any given week, you have the flexibility to determine how you will schedule your time to complete the required work. But because there is so much content, it is important to manage your time wisely.
+
+**There will also be live and virtual events taking place over the duration of the program**. Virtual events (such as office hours and expert sessions) will always be recorded and can be viewed after.
+
+**City Hubs will host some of these live events**. Take time to find your closest City Hub and ensure you stay up to date with your city hub calendar and list of beneficial activities.
+
+**In some weeks - particularly in month 2 - group collaboration is required**. You must coordinate with your assigned project teams to meet virtually (or in person if you all happen to live near one another).
+
+**YOU drive your own learning and determine your success**. You will need to be intentional about managing your time to successfully complete the various requirements of this course.
+
+### Key Terms
+
+[![Key Terms](content/key_t.png)](content/key_t.png)
+
+Okay, let’s recap some of the keywords we have mentioned so far and add some new words that you will need in your vocabulary.
+
+You may want to pull out your notepad and jot down some of these terms so you remember them going forward. Click on each word or phrase to reveal its meaning.
+
+<details open>
+    <summary>Module</summary>
+    <br>
+    A module is a collection of similar content that is grouped and presented together. If this was a physical book a module could be called a chapter. When you hear module, think of a chapter. In the ALX Professional Foundations Course, each week’s material typically has several modules.
+</details>
 
 
