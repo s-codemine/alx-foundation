@@ -288,10 +288,12 @@ Okay, let’s recap some of the keywords we have mentioned so far and add some n
 
 You may want to pull out your notepad and jot down some of these terms so you remember them going forward. Click on each word or phrase to reveal its meaning.
 
-<details open>
-    <summary>Module</summary>
-    <br>
-    A module is a collection of similar content that is grouped and presented together. If this was a physical book a module could be called a chapter. When you hear module, think of a chapter. In the ALX Professional Foundations Course, each week’s material typically has several modules.
+<details><summary>Module</summary>
+
+    >
+    > A module is a collection of similar content that is grouped and presented together. If this was a physical book a module could be called a chapter. When you hear module, think of a chapter. In the ALX Professional Foundations Course, each week’s material typically has several modules.
+    >
+
 </details>
 
 
