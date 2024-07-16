@@ -221,13 +221,36 @@ Please plan ahead and always endeavour to submit/pass all Milestones and Tests o
 
 **Course Completion Requirements**
 
-+ 0 Complete each Weekly Milestone. To pass each Milestone, you must submit your milestone on time.
-+ 1 Complete and pass (earn a 70% or higher) each Weekly Test on time.
++ 1 Complete each Weekly Milestone. To pass each Milestone, you must submit your milestone on time.
++ 2 Complete and pass (earn a 70% or higher) each Weekly Test on time.
 
 For full details on the policies around late work and maintaining your enrollment in the program, please review the [Course Completion Requirements](content/foundations_program.pdf).
 
+### How to be Successful
 
+[![To Be Successful](content/successful.png)](content/successful.png)
 
+#### Success in this program is definitely not by Happenstance
+
+Happenstance · /ˈhap(ə)nstans/ · a noun Definition: Coincidence. By chance or luck. Used in a sentence: “It was not just happenstance that I completed the ALX Foundation Program. I put in very intentional effort.”
+
+#### Here are some tips and strategies for how to do well in this course!
+
+Success in this program is all about building and sticking to a set of recommended actions:
+
+>
+> **Carefully read and follow instructions**. This is particularly true with the required activities, Tests and Milestones. We have done our level best to provide you with clear instructions on what you need to do to complete an activity. Each Test and Milestone will have a specific set of instructions. Please follow them carefully.
+> **Take a glance** at the Milestone and Test at the beginning of each week to make sure you hold them in mind when reviewing the learning material.
+> **Understand the content**. And absorb it in the order that we present it. If a concept is not making sense research more on it or ask your peers. Concepts will build on each other throughout the program, so it is vital to grasp key concepts before moving on to the next.
+> **Take the reflection exercises seriously**. They help your brain absorb the new material and identify areas of growth and improvement.
+> **Learn by repeated action**. 70% of this course is about doing and we encourage you to be intentional about applying what you learn in your day-to-day.
+> **Embrace your community and make the most of it**. Your peers are your biggest hype persons and network of support. Engage with your peers and participate in community activities online and at your city hub. If you want to run fast run alone, but if you want to run far, run with others.
+> **Use apps that support your self-learning journey**. Good examples are [Google Calendar](https://calendar.google.com/calendar/) to manage your time, [Grammarly](https://app.grammarly.com/) to write the perfect summaries and text, and [Evernote](https://evernote.com/) to take notes and illustrations. Put your tech-savviness into action and apply resources that make this journey that much more enjoyable.
+> **Religiously allocate and manage your time**. This is a big one. Let’s dive deeper on the next page.
+> **Take breaks** after every 25 - 30 minutes of studying so you don’t get too tired too quickly. Pacing yourself helps your mind to process new information and recharge. You will see that taking mini-break helps you to stay alert for longer, and work more efficiently.
+> **Reward yourself** when you finish a module, a tough activity or complete a milestone. Celebrating yourselves is one of the best ways to stay motivated and engaged. So when you have done well, don’t be shy to acknowledge and reward yourself with something that you enjoy.
+> **Go on and make winning part of your daily routine!**
+>
 
 
 
