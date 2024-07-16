@@ -419,7 +419,7 @@ What excites you most about what you know so far about this course? What do you 
 
 ### The Importance of Community
 
-[![Community](community.png)](community.png)
+[![Community](content/community.png)](content/community.png)
 
 By now, you may have picked up on the fact that  ALX and The Room are serious and deliberate about community (and if you haven’t, we are!!). Community is a really important part of what we do, and if you let it, it can be a hugely important part of your career journey.
 
@@ -445,7 +445,7 @@ There’s a saying we love here at ALX, which is: “If you want to go fast, go 
 
 ### The ALX Portal Channels
 
-[![ALX](alx.png)](alx.png)
+[![ALX](content/alx.png)](content/alx.png)
 
 One of the way we encourage a sense of community is through The ALX Portal. Carefully read the below information so you can make the most of your community experience for the duration of this program.
 
@@ -569,9 +569,9 @@ Onsite (in-person) Community Guidelines
 
 What does this look like in practice?
 This translates into some very simple do’s and don'ts! Let’s see what they are.
-|---|---|
+
 |DO's|DON'Ts|
-|---|---|
+|:---|:---|
 | Do communicate with your peers as often as you want | Do not use discriminatory, violent, vulgar and/or dangerous speech |
 | Do remind your peers to keep our community safe and supportive | Do not harass or intimidate your peers |
 | Do share resources and offer help and feedback to those in need | Do not post sexual comments |
