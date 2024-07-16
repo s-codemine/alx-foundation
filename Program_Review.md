@@ -591,7 +591,76 @@ If you are subject to or witness a violation of the ALX Community’s code of co
 
 If you notice a violation, you can also reach out to message the involved parties privately and explain why what they said or did might be hurtful to someone. We are a family, so feel free to be proactive and reach out privately before reporting.
 
+### Harassment & Discrimination
 
+[![Harassment & Discrimination](content/harassment.png)](content/harassment.png)
+
+>
+> #### How do we define Harassment?
+> Harassment is behaviour towards a person that causes mental or emotional suffering, which includes repeated unwanted contact without a reasonable purpose, insults, threats, unwanted touching, or offensive language. There are different types of harassment as described below.
+>
+
+#### Verbal harassment:
+
+Calling or referring a person with intimidating, threatening, diminishing language. Example: You call another student names, insult or make inappropriate comments to them or their loved ones, regardless of the reason.
+
+#### Physical harassment:
+
+Addressing a person in physically abusive ways. Example: You push, punch, or slap a fellow participant.
+
+#### Power harassment:
+
+Intimidating, threatening, diminishing behaviour coming from a person who takes advantage of their position against the victim. Example: A community manager or any ALX staff insults you, knowing that you are a student and will probably not take action.
+
+#### Psychological harassment:
+
+A mix of behaviours that makes the victim feel belittled, ashamed, or dismissed and affects their mental health. Example: You bully a student in a way they don’t feel like coming to the city hub anymore, or they stop engaging in the online community platform.
+
+#### Cyberbullying:
+
+Behaviours that happen on or leverage technology. Example: You share the personal info of a student with others, or you insult other students online.
+
+#### Retaliation harassment:
+
+A mix of behaviours aimed at taking revenge on the victim for something they have done. Example: You receive a review from a peer that you think is too low, and you take revenge on them.
+
+#### Sexual harassment:
+
+A mix of behaviours that imply sexual references. Sometimes it can take the form of a_ “this for that”_ type of exchange. Example: You make sexual comments to a fellow participant or ALX staff, and send sexual content. Or, you ask for sexual favours in exchange for the solution to a quiz or a good review.
+
+#### Doxing:
+
+Publishing or distributing someone’s private or personal information, such as their address, phone number, or workplace, without their consent.
+
+#### Online Grooming:
+
+Building an emotional connection with someone over the internet for the purpose of exploitation, often leading to harassment, manipulation, or coercion.
+
+#### Trolling:
+
+Purposefully provoking or harassing others online by posting inflammatory or offensive content, often with the intent to disrupt discussions or incite negative reactions.
+
+#### Stalking:
+
+Engaging in persistent and unwanted attention or surveillance towards someone, often causing fear, anxiety, and invasion of privacy.
+
+#### Invasion of Privacy:
+
+Violating someone’s personal boundaries, such as secretly recording or taking pictures of them without consent, sharing private information, or spreading rumours about their personal life.
+
+>
+> ### Discrimination
+
+> Discrimination is treating someone unfairly based on race, ethnicity, gender, sexual orientation, religion, or any other characteristic. This includes verbal or written comments, actions, or behaviours that create a hostile or unwelcoming environment for others.
+>
+> If you are not sure whether your behaviour might be discriminatory, it is best to simply not do it.
+>
+> > **question mark**
+> >
+> > Something to think about:
+> >
+> > If you really want to know more about harassment or discrimination, it’s best to talk to people who face it. Do you know someone who you can talk to about these topics?
+>
 
 
 
