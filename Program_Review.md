@@ -332,3 +332,88 @@ You may want to pull out your notepad and jot down some of these terms so you re
     <p>Details of the city hub locations will be shared with you via email.</p>
 </details>
 
+## Program Overview Part 3
+
+### Global Challenges & Global Opportunities [GCGO]
+
+Part of your learning objectives in this program is to identify your personal mission in society, as a young professional. In an ever-changing world of work, siloed academic learning is quickly losing relevance, unless it is coupled with a meaningful mission that enables you to meaningfully contribute towards the global narrative.
+
+Attentively watch this video by Fred Swaniker, as he speaks on the importance of connecting your career to a meaningful mission.
+
+On the other side of these 7 Global (Grand) Challenges, there are 7 Global Opportunities. These are:
+
+[![GCGO](https://youtu.be/mAN_r1K02uw)](https://youtu.be/mAN_r1K02uw)
+
+>
+> **question mark**
+>
+> We will speak to each of these Global Challenges and Global Opportunities (GCGOs) in the coming weeks. Can you reflect on the following questions, at first glance, without overthinking about it:
+>
+> + What Global Challenge resonates the most?
+> + What Global Opportunity resonates the most?
+> + What seems to connect with areas you are passionate about?
+> + Is there a connection between any one of the GCGOs and a tech career?
+>
+
+### Intro to the Daily 3: Habits for Developing Intrapersonal Intelligence
+
+Another objective of the program is to help you develop beneficial habits.
+
+What habits do you have to check in with yourself, become more aware of your emotions and desires, practice creativity, set goals, and hold yourself accountable?
+
+**Did you know that repeated actions form habits and habits form character?** This applies to both good habits (actions you want to keep doing due to the benefits) and bad habits (actions you want to stop doing as they are detrimental).
+
+Next week, you will begin building new daily habits by practicing **The Daily 3!** These are 3 “secret weapon” habits that many influential, happy, and successful people practice, and we’re SO excited to share them with you!We have chosen them because there is extensive research showing their benefit and because our previous students have developed a practice with them and noticed HUGE changes in productivity and attitude. We will start you slowly, so don’t worry!
+
+The Daily 3 are:
+
++ 1. Morning Pages
++ 2. Mindfulness Meditation
++ 3. Movement
+
+For this week, we’re just introducing you to each of these practices. Next week, you’ll begin building skills with the first one. Just take it one step at a time, following our guidance, and by the end of this course, you start to notice the impact they have on your well-being, attitude, stamina, mindset, and relationships!
+
+[![Successful People](content/successful_people.png)](content/successful_people.png)
+
+Of course, like success, habits don’t build overnight. It’s a process. But as long you’re taking the right steps, and keep pushing, you’ll get there. It can feel hard at the beginning, but trust us, you can do it! One of the tricks to building new habits is to take baby steps. That is, start very slow, and gradually build. We’re here to help you start that process! The baby step for this week is just to start to learn about what the Daily 3 practices are. You’ve GOT this!
+
+[![Baby Steps](content/baby_steps.png)](content/baby_steps.png)
+
+>
+> “One day you’ll look back and realise how hard it was, and just how well you did.”
+>
+> Charlie Mackesy
+>
+
+### The Daily 3: Taking the First Baby Step
+
+Let’s take our first baby step, and get to know what the Daily 3 actually are. Read carefully, and as you read through them, look for things that you might already be doing. And if you don’t find something that clicks, it’s OK. Everyone starts somewhere 🙂!
+
+You can download this PDF document by clicking on [this link](https://drive.usercontent.google.com/u/0/uc?id=1iW9i1GCwrQlEsC5CQ_0TbIAg6VhLVyTF&amp;export=download).
+
+**OPTIONAL**: Here are some resources you can use to expand your understanding of the Daily 3. Go through them to complete your first baby step!
+
++ [Morning Pages - Julia Cameron](content/morning_pages-Julia_Cameron.pdf) This short, engaging chapter fromThe Artist’s Waywill give a little more background, understanding, and appreciation for this tool. So please read it!
++ The New York Times worked with a group of health scientists a few years back, and reported that a 7-minute workout is the best “bang for your buck” (that is, return on your investment of time) in terms of health benefits provided. If it calls to you, we encourage you to give the [NYT 7-minute workout](https://www.nytimes.com/video/well/100000007527127/standing-7-min-workout.html) a try!
++ Please read this short Harvard Business Review article to learn more about the benefits of daily movement in your professional life Regular [Exercise Is Part of Your Job-HBR](content/regular_exercise-HBR.pdf).
++ Please read [Meditation for College Students](https://drive.google.com/file/d/14auLHyDjEkS265S6LDKCiQL0ZebAt8wh/view?usp=sharing) to gain a greater understanding of what mindfulness meditation is and how to start practicing it.
+
+### Commitment to Success
+
+To be able to commit to this program until the very end, a pivotal starting point is to articulate your reason for being here in the first place.
+
+**So we ask with no reservations…**
+
++ Why Are You Here?
++ What are your reasons for taking this course?
+
+Immediate reasons could be because you received a substantial scholarship from a noteworthy organization and the certificate will look good on your CV (resume). Those are valid reasons but if you are in this for the long haul we challenge you to take a moment and think deeper.
+
+What excites you most about what you know so far about this course? What do you want access to that this course may give you? What is your big vision? Who will it empower? What are the benefits to you or others?
+
+**Your ‘why’ will keep you committed and pushing forward when the going gets bumpy or the road ahead looks too steep.**
+
+**So take a moment right now to share with your squad on the Portal one main reason you are taking this course.** Sharing your reasons with others will help you stay accountable and motivated to keep going.
+
+[![Success](content/job.gif)](content/job.gif)
+
