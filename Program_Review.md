@@ -145,11 +145,11 @@ Of course, as you venture out into the world to become leaders in technology,spe
 In learning about the tech ecosystem, you will understand:
 
 >
-> + ✔ How to work in Technical & Product Teams
-> + ✔ Tech Tools
-> + ✔ Ethics in Tech
-> + ✔ Technical Literacy
-> + ✔ Tech Track Specialization
+> ✔ How to work in Technical & Product Teams
+> ✔ Tech Tools
+> ✔ Ethics in Tech
+> ✔ Technical Literacy
+> ✔ Tech Track Specialization
 >
 
 Learning and practicing all of these meta-skills will supercharge your journey as a tech professional!
@@ -171,6 +171,64 @@ Cultivate curiosity towards new skills, demonstrate proactivity in acquiring the
 [![Skill Tracker](content/skill_tracker.png)](content/skill_tracker.png)
 
 Happy Tracking!
+
+## Program Overview Part 2
+
+### Course Structure
+
+[![Course Structure](content/course_struc.png)](content/course_struc.png)
+
+#### Content, Milestones and Tests
+
+Each week of the program, new learning content is released on Savanna. To successfully complete the Test and the Milestone for that week, you will need to carefully review this content.
+
+During the 8 weeks of this course, you will have 8 required Weekly Tests and 7 required Weekly Milestones (Starting from Week 2). Completing this course is necessary for you to proceed to the second half of the program, where you will begin work in your chosen tech specialization.
+
+This means that **in total, there are 15 required, graded elements over the next 8 weeks of this program**.
+
++ The Weekly Milestone is a submitted assignment that is automatically and immediately graded on Savanna. You will submit this assignment and then complete the Weekly Test, which assesses your knowledge of the Milestone. You must complete both tasks to pass the Milestone.
++ The Weekly Test is designed to evaluate your understanding based on your Milestone submission. It is also graded automatically and immediately on Savanna. You can reattempt these tests to improve your score. Make sure you’re prepared and attentive when taking these tests.
++ Weekly Tests and Milestones are due every Monday of the program, by no later than 11:59 pm GMT. You must receive a score of 70% or higher on both Tests and Milestones to pass.
+
+A week-by-week program overview was shared at the start of the Week. You can download and view it from this link.
+
+#### City Hubs
+
+Several cities will have ALX Hubs for learners to use. The following activities may be available at city hubs near you:
+
++ Community and social events including watch parties for office hours, virtual guest speakers, and course videos.
++ Workshops covering specific content topics and learning outcomes.
++ Peer Collaborations
++ Team project meetings (particularly in month 2)
++ Personal working sessions.
++ Just using them for when your internet is acting up 😋
+
+We encourage you to make the most of your nearest City Hub. The space is designed for you!
+
+#### The Portal
+
+By now, you should be fully set up on The Portal. This will enable you to join the ALX Community and your Squad (your immediate community of peers). You are expected to keep track of announcements and updates that will be shared ever so often by the ALX team on the platform. You are also expected to participate in the activities/discussions within your Squad or on the Program-wide platforms.
+
+### Successfully Completing the Course
+
+[![Course Completion](content/completion.png)](content/completion.png)
+
+We’ve tried to keep things simple! So it’s very important that you carefully read the program completion requirements and policies, and fully understand them. They provide detailed guidelines on how to successfully complete this program.
+
+Make note of the standard Milestone and Test due dates, and late policy expectations.
+
+Please plan ahead and always endeavour to submit/pass all Milestones and Tests on time. Failure to do so will impact your ability to stay enrolled and succeed in the course.
+
+**Course Completion Requirements**
+
++ 0 Complete each Weekly Milestone. To pass each Milestone, you must submit your milestone on time.
++ 1 Complete and pass (earn a 70% or higher) each Weekly Test on time.
+
+For full details on the policies around late work and maintaining your enrollment in the program, please review the [Course Completion Requirements](content/foundations_program.pdf).
+
+
+
+
 
 
 
