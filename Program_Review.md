@@ -662,5 +662,74 @@ Violating someone’s personal boundaries, such as secretly recording or taking 
 > > If you really want to know more about harassment or discrimination, it’s best to talk to people who face it. Do you know someone who you can talk to about these topics?
 >
 
+## Meet Your Cohort!
+
+### Academic Integrity: Plagiarism and Cheating
+
+[![Academic Integrity](content/plagiarism.png)](content/plagiarism.png)
+
+Before we move on, it’s important that we talk about another aspect of Code of Conduct; maintaining integrity! Let’s explore what falls withing this aspect of our guidelines and how to keep yourself in the clear and make the best of this learning experience.
+
+#### Plagiarism: A Big No!
+
+Plagiarism is a serious offense—presenting someone else’s work as your own is a big deal. Just ask Mr. Karl-Theodor Zu Guttenberg, the former German Minister of Defence, who lost his position and PhD title for plagiarizing over 60% of his doctoral dissertation. Even the famous author Rudyard Kipling admitted to pilfering parts of “The Jungle Book.”
+
+#### Cheating: A Definite Don’t!
+
+Cheating covers a range of deceitful actions, from plagiarism to lying, copying, and using unauthorized aids. We define cheating as obtaining credit through dishonest means, and it’s a big no-no.
+
+#### Consequences are Real!
+
+We’re serious about maintaining integrity. Weekly, we randomly check Milestones for plagiarism, leading to expulsions and deep regrets for those caught. Don’t rob yourself of the learning experience—commit to honest work.
+
+[![Consequences Are Real!](content/consequences.png)](content/consequences.png)
+
+#### Your Learning Journey Matters!
+
+Learning is challenging, but we’re here to support you. Building a community that helps you navigate difficulties is our goal. This is your chance to learn and grow, so don’t waste it. Avoid shortcuts; do honest work—your future self will thank you!
+
+### Privacy And Data Protection
+
+[![Privacy](content/privacy.png)](content/privacy.png)
+
+To help keep our community safe and thriving, we have policies to help ensure the security and confidentiality of our personal information in the digital world. Think of privacy as a personal boundary. It’s about having control over what information about ourselves and who has access to it. Just like we wouldn’t want strangers peeking in our homes or invading our personal lives, privacy in the digital realm means protecting sensitive information, such as our names, addresses, contact details, financial data, and online activities.
+
+#### HOW WE MAINTAIN PRIVACY AND CONFIDENTIALITY IN OUR COMMUNITY
+
+Practicing privacy and confidentiality within a community involves respecting and safeguarding the personal information shared by community members. These are the way we uphold privacy at ALX:
+
+- **Obtain CONSENT before sharing**: We seek permission from individuals before sharing their personal information, stories, or experiences with others. We obtain their clear, informed consent and ensure they are comfortable with the extent of sharing. When in doubt, we don’t share their information.
+- **Maintain CONFIDENTIALITY in discussions**: If the community engages in discussions or activities that involve personal information sharing, we emphasize the importance of confidentiality. We encourage all members to keep shared information to themselves and refrain from sharing it outside the community without explicit permission.
+- **Use SECURE communication channels**: We are cautious about sharing any financial or personal information. If we must share such details (for example to make a payment to ALX), we make sure that the communication channel uses proper security protocols.
+
+### Guideline Offenses
+
+[![Offense Guidelines](content/offence.png)](content/offence.png)
+
+Most of the time, students conduct themselves ethically and within our Code of Conduct. But unfortunately, in some cases, we will need to take difficult decisions. Our system of offenses oversees disciplinary actions, including temporary suspension or expulsion from the program and fellowship. Hopefully, this won’t apply to you, but we need to make sure everyone understands the consequences of violating our Code of Conduct.
+
+#### We place violations of the Code of Conduct into 3 categories, as follows:
+
++ <details><summary>Misuse</summary>
+    <br>
+    Claim of representing the organization in another capacity than that of a student or Fellow. This is limited to instances where no reputational damage is incurred by ALX/The ALX Fellowship.
+</details>
++ <details><summary>Mild Offense</summary>
+    <br>
+    <p>Use of abusive language.</p>
+    <p>Engaging in activities, online or in the city hub spaces, which are not related to the purpose of the learning program or that disturb its activities.</p>
+    <p>Failure to comply with the regulations concerning the right usage of the organization logo and branding, for goals that do not pertain or align to organizational direction.</p>
+</details>
++ <details><summary>Severe Offense</summary>
+    <br>
+    <p>This is the text for section 3. It should show when the accordion for section 1 is clicked to reveal the content underneath. This is a great way to reduce the cognitive load on the learner by visually chunking content into different segments.</p>
+    <p>Copyright violation of program content, by publishing any piece of the program content without permission; including offering paid services that leverage any ALX/The ALX Fellowship content.</p>
+    <p>Damage to the physical integrity of City Hub premises.</p>
+    <p>Discrimination based on race, ethnicity, gender, sexual orientation, religion, or any other characteristics. This includes verbal or written comments, actions, or behaviours that create a hostile or unwelcoming environment for others.</p>
+</details>
+
+You can download these definitions from our [Definition of Offenses Guidelines](content/offence_definitions.pdf).
+
+
 
 
