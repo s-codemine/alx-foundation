@@ -49,8 +49,9 @@ An ideal ALX graduate recognizes that all parts of their tree are essential to b
 
 >
 > **question mark **
+>
 > What is your tree made out of?
 >
-> Grab a pen and draw it out! List out what your roots, trunk, branches and leaves are made of.
-> Reflect and review as you feel necessary.
+> + Grab a pen and draw it out! List out what your roots, trunk, branches and leaves are made of.
+> + Reflect and review as you feel necessary.
 >
