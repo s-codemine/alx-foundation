@@ -730,6 +730,16 @@ Most of the time, students conduct themselves ethically and within our Code of C
 
 You can download these definitions from our [Definition of Offenses Guidelines](content/offence_definitions.pdf).
 
+### Still Have a Question?
 
+[![Got A Question?](content/questions.png)](content/questions.png)
+
+We’ve tried to make it easy for you to move through this course step by step. The answers to any questions you have are likely found in the course material here on Savanna. But, if you’ve searched and haven’t found what you need to know you can do the following:
+
++ 1. Check the Portal Announcements channel first. The answer you need might be already posted on the channel.
++ 2. Check the Resources channel, which answers common program-related FAQs.
++ 3. Ask your peers using your squad channel on The Portal. You will likely get a faster response.
++ 4. If you can, ask a peer or staff member at your local City Hub. You should only ask a staff member after you have completed steps 1 - 3 above. Please do not approach the City Hub Staff first.
++ 5. If you still don’t have the answer you need after steps 1 - 4, you can email alxfoundations@alx.app with questions, and again we will do our best to respond within 2 working days.
 
 
