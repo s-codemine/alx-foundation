@@ -5,6 +5,7 @@
 Before we move on with the rest of the content for the week, let’s give you a little teaser for the upcoming Karibu ceremony! The following is a letter that will help set the tone for whats to come. Take the time to flip through these slides and learn more about the Cathedral of Milan and its rich history.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3PoVHdEXxeJg0lUcjLOL0bCAxTwk5I26wOHzhQm3QfNd7Z-PcYj8OcUROp6vPeW-9fMLhzd5zGW2h/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="427" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 [Slide Here](https://docs.google.com/presentation/d/e/2PACX-1vQ3PoVHdEXxeJg0lUcjLOL0bCAxTwk5I26wOHzhQm3QfNd7Z-PcYj8OcUROp6vPeW-9fMLhzd5zGW2h/embed?start=false&loop=false&delayms=3000)
 
 ## The Ideal ALX Graduate
@@ -34,7 +35,8 @@ This tree symbolizes you as an individual:
 Here’s a fun and self reflective exercise that you’ll be a part of this Karibu ceremony. Let’s take a sneak peek to see what we’re getting into.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTI0YYIC4prE--pjJ-NslRaHgFj2hMLFdlcaqWTX28EqgTfO6ByqB9B9_nifuCoA2vPKnvV2S4Vf3dv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="427" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
- [Slide Here](https://docs.google.com/presentation/d/e/2PACX-1vTI0YYIC4prE--pjJ-NslRaHgFj2hMLFdlcaqWTX28EqgTfO6ByqB9B9_nifuCoA2vPKnvV2S4Vf3dv/embed?start=false&loop=false&delayms=3000)
+
+[Slide Here](https://docs.google.com/presentation/d/e/2PACX-1vTI0YYIC4prE--pjJ-NslRaHgFj2hMLFdlcaqWTX28EqgTfO6ByqB9B9_nifuCoA2vPKnvV2S4Vf3dv/embed?start=false&loop=false&delayms=3000)
 
 ## The Ideal ALX Graduate Continued...
 
