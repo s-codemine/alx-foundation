@@ -742,4 +742,16 @@ We’ve tried to make it easy for you to move through this course step by step. 
 + 4. If you can, ask a peer or staff member at your local City Hub. You should only ask a staff member after you have completed steps 1 - 3 above. Please do not approach the City Hub Staff first.
 + 5. If you still don’t have the answer you need after steps 1 - 4, you can email alxfoundations@alx.app with questions, and again we will do our best to respond within 2 working days.
 
+### Consequences of Breach
 
+This graphic provides a visual for the consequences of a breach of the Code of Conduct. In summary:
+
++ If a learner commits a misuse, they receive a soft warning.
++ The first time a learner commits a mild offense, they receive a soft warning.
++ The second time a learner commits a mild offense, they receive an official warning.
++ If a learner commits 3 mild offenses OR 1 severe offense, then they will be temporarily banned from the programme and required to complete a mini-course before being allowed re-entry.
++ Any subsequent offense after completion of the mini-course will result in expulsion (that is, permanently banned from ALX.)
+
+Expulsion can also result immediately from any offense deemed severe enough.
+
+[![Got A Question?](content/breach_consequence.png)](content/breach_consequence.png)
