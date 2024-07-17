@@ -55,3 +55,16 @@ An ideal ALX graduate recognizes that all parts of their tree are essential to b
 > + Grab a pen and draw it out! List out what your roots, trunk, branches and leaves are made of.
 > + Reflect and review as you feel necessary.
 >
+
+## Africa in 2030
+
+Now that you understand ALX’s mission, we want to show you how we see Africa in 2030. We want you to visualize the future of this continent, so we can work together to achieving it.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5OmjGYXPJ0k8u2nW1-0ir7IjxxYSUADNnI6CULtwNx4fX8qPTyd5bXLz2OwgafEUCy48dA9ilTm0L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="427" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[Slide Here](https://docs.google.com/presentation/d/e/2PACX-1vS5OmjGYXPJ0k8u2nW1-0ir7IjxxYSUADNnI6CULtwNx4fX8qPTyd5bXLz2OwgafEUCy48dA9ilTm0L/embed?start=false&loop=false&delayms=3000)
+
+
+
+
+
