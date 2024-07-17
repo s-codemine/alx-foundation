@@ -710,23 +710,25 @@ Most of the time, students conduct themselves ethically and within our Code of C
 
 #### We place violations of the Code of Conduct into 3 categories, as follows:
 
-+ <details><summary>Misuse</summary>
-    <br>
-    Claim of representing the organization in another capacity than that of a student or Fellow. This is limited to instances where no reputational damage is incurred by ALX/The ALX Fellowship.
-</details>
-+ <details><summary>Mild Offense</summary>
-    <br>
-    <p>Use of abusive language.</p>
-    <p>Engaging in activities, online or in the city hub spaces, which are not related to the purpose of the learning program or that disturb its activities.</p>
-    <p>Failure to comply with the regulations concerning the right usage of the organization logo and branding, for goals that do not pertain or align to organizational direction.</p>
-</details>
-+ <details><summary>Severe Offense</summary>
-    <br>
-    <p>This is the text for section 3. It should show when the accordion for section 1 is clicked to reveal the content underneath. This is a great way to reduce the cognitive load on the learner by visually chunking content into different segments.</p>
-    <p>Copyright violation of program content, by publishing any piece of the program content without permission; including offering paid services that leverage any ALX/The ALX Fellowship content.</p>
-    <p>Damage to the physical integrity of City Hub premises.</p>
-    <p>Discrimination based on race, ethnicity, gender, sexual orientation, religion, or any other characteristics. This includes verbal or written comments, actions, or behaviours that create a hostile or unwelcoming environment for others.</p>
-</details>
+>
+> <details><summary>Misuse</summary>
+>     <br>
+>     Claim of representing the organization in another capacity than that of a student or Fellow. This is limited to instances where no reputational damage is incurred by ALX/The ALX Fellowship.
+> </details>
+>  <details><summary>Mild Offense</summary>
+>     <br>
+>     <p>Use of abusive language.</p>
+>     <p>Engaging in activities, online or in the city hub spaces, which are not related to the purpose of the learning program or that disturb its activities.</p>
+>     <p>Failure to comply with the regulations concerning the right usage of the organization logo and branding, for goals that do not pertain or align to organizational direction.</p>
+> </details>
+>  <details><summary>Severe Offense</summary>
+>     <br>
+>     <p>This is the text for section 3. It should show when the accordion for section 1 is clicked to reveal the content underneath. This is a great way to reduce the cognitive load on the learner by visually chunking content into different segments.</p>
+>     <p>Copyright violation of program content, by publishing any piece of the program content without permission; including offering paid services that leverage any ALX/The ALX Fellowship content.</p>
+>     <p>Damage to the physical integrity of City Hub premises.</p>
+>     <p>Discrimination based on race, ethnicity, gender, sexual orientation, religion, or any other characteristics. This includes verbal or written comments, actions, or behaviours that create a hostile or unwelcoming environment for others.</p>
+> </details>
+>
 
 You can download these definitions from our [Definition of Offenses Guidelines](content/offence_definitions.pdf).
 
