@@ -10,11 +10,11 @@ You have made a great decision to be part of the rigorous and rewarding learning
 
 Click play to watch the video. As you watch it, make sure that you have understood:
 
-How the program is structured.
-How to approach the content.
-The 8 meta-skills covered in the program.
-How your time in the program will be allocated.
-The learning focus of Months 1 and 2?
++ How the program is structured.
++ How to approach the content.
++ The 8 meta-skills covered in the program.
++ How your time in the program will be allocated.
++ The learning focus of Months 1 and 2?
 
 [![Learning Focus Month 1 & 2](https://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view)](https://drive.google.com/file/d/1QeVM7JK5HjVOpR_8QPMFQjK8kLiph3fb/view)
 
